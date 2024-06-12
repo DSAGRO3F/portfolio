@@ -26,7 +26,9 @@
 - [Analyse prédiction consommation énergétique bâtiment non résidentiel](https://github.com/DSAGRO3F/Analyse_predictive_batiment_energetique_CO2)
 
 #### IA générative, l'architecture des VAE.
-<font color='blue'>L'architecture se compose d'un encoder et d'un decoder</font>
+_L'architecture du VAE se compose d'un encoder et d'un decoder. L'objet de l'encoder est d'extraire les features essentielles pour aboutir à une représentation simple de la donnée d'entrée. Cette représentation simple est nommée l'espace latent_.
+
+
 
 ### Consultant @ IBM France.
 #### Missions Organisation de Système Information, clients européens.
