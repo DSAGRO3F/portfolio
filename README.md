@@ -1,13 +1,13 @@
 # PORTFOLIO.
 # Data Scientist
 
-## Education
+## **_Education_**.
 - Maîtrise de Sciences et structure de la matière.
 - Master in Business Administration.
 - Master Ingénierie Financière.
 - Master Data Sciences
 
-## Experience
+## **_Experience_**.
 ### Data scientist (Python/Pytorch/Scikitlearn/Matplotlib/Plotly/Dash...).
 - Volumes de ventes, marque française secteur du luxe (environnement SQL et GCP, plateforme Qlick-autoML): Production POC pour estimation faisabilité (Tests architectures XGBM, LSTM en cours).
 - Détection anomalies/prédiction dysfonctionnement groupes électrogènes, activité maintenance industrielle (environnement datalake/SQL sur réseau interne; Cadrage étude (gros vol. d'équipements en maintenance, affectation priorités, compréhension données capteurs), constitution historiques data (séries temporelles), modélisation (VAE, LSTM) et test versus objectifs métiers, développement app. Streamlit et déploiement sur AWS/EC2.
