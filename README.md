@@ -25,6 +25,9 @@
 - [Gestion accord crédit consommation/dashboard](https://github.com/DSAGRO3F/risk_rating_dashboard)
 - [Analyse prédiction consommation énergétique bâtiment non résidentiel](https://github.com/DSAGRO3F/Analyse_predictive_batiment_energetique_CO2)
 
+#### IA générative, l'architecture des VAE.
+<font color='blue'>L'architecture se compose d'un encoder et d'un decoder</font>
+
 ### Consultant @ IBM France.
 #### Missions Organisation de Système Information, clients européens.
 - Bezecq Telecom
