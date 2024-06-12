@@ -34,6 +34,7 @@ _Les données en sortie du decoder sont très semblables à celles en entrée de
 _Finnalement les poids du modèle, durant leur phase d'entrainement, apprennent la distribution d'un pattern. Ce qui fait des VAE des modèles très intéressants pour la détection d'anomalies dans les secteurs de l'Industrie, de la banque (fraude) par exemple._
 
 ![nuage de représentation des vecteurs de l'espace latent](https://drive.google.com/file/d/103Ic8UWLj6mqW-zEshQiReZxLU3HAItz/view?usp=sharing)
+- [nuage de représentation des vecteurs de l'espace latent](https://drive.google.com/file/d/103Ic8UWLj6mqW-zEshQiReZxLU3HAItz/view?usp=sharing)
 
 
 ### Consultant @ IBM France.
