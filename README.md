@@ -14,6 +14,7 @@
 - Détection anomalies/prédiction dysfonctionnement groupes électrogènes, activité maintenance industrielle (environnement datalake/SQL sur réseau interne; Cadrage étude (gros vol. d'équipements en maintenance, affectation priorités, compréhension données capteurs), constitution historiques data (séries temporelles), modélisation (VAE, LSTM) et test versus objectifs métiers, développement app. Streamlit et déploiement sur AWS/EC2.
 - Automatisation catégories produits, place de marché multi-catégorielle.
 - Gestion accord de crédit aux particuliers, activité de crédit consommation.
+
 #### Projets et publications théoriques.
 - [VAE](https://github.com/DSAGRO3F/VAE_MNIST)
 - [CNN classification](https://github.com/DSAGRO3F/CNN_image_classification)
