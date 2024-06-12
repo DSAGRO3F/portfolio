@@ -32,6 +32,7 @@ _Au fur et à mesure des boucles successives, le vecteur de distribution normale
 _Le decoder prend en entrée le vecteur z et les couches nn.Linear(), nn.ReLU() et nn.Dropout() vont transformer z et le faire passer d'un vecteur de dimension simple à un vecteur qui aura, en sortie du decoder, la même dimension que celle du vecteur d'origine. Ce qui permet de tenter de reconstruire la donnée d'entrée avec l'aide de la fonction de perte (qui opère par le processus de descente de gradients)._
 _Les données en sortie du decoder sont très semblables à celles en entrée de l'encoder mais jamais identiques à cause de l'architecture du vecteur z dont l'une des composante est une distribution normale._
 _Finnalement les poids du modèle, durant leur phase d'entrainement, apprennent la distribution d'un pattern. Ce qui fait des VAE des modèles très intéressants pour la détection d'anomalies dans les secteurs de l'Industrie, de la banque (fraude) par exemple._
+
 ![nuage de représentation des vecteurs de l'espace latent](https://drive.google.com/file/d/103Ic8UWLj6mqW-zEshQiReZxLU3HAItz/view?usp=sharing)
 
 
