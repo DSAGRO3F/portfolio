@@ -1,5 +1,5 @@
 title: Olivier de Beyssac
 logo: https://avatars.githubusercontent.com/u/121167011?v=4
 description: Data Scientist
-show_downloads: true
-theme: jekyll-theme-minimal
+show_downloads: false
+theme: jekyll-theme-architect
