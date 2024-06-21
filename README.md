@@ -44,6 +44,30 @@ _Finnalement les poids du modèle, durant leur phase d'entrainement, apprennent 
 
 
 ### IA générative, l'architecture des GAN.
+__ Un GAN se compose de deux réseaux indépendants, un Générateur et un Discriminateur. __
+__ Le Générateur génère des échantillons synthétiques à partir d'un bruit aléatoire (échantillonné à partir d'un espace latent). __
+__ Le Discriminateur est un classificateur binaire qui distingue si l'échantillon d'entrée est réel (renvoie une valeur scalaire 1) ou faux (renvoie une valeur scalaire 0). __
+__ Dans la boucle d'entrainement, on construit des vecteurs "tag" qui permettent de codifier les valeurs réelles et les valeurs "fake", issues de l'espace latent, résultant du générateur. __
+
+__ Au début de l'apprentissage, le discriminator reçoit un vecteur de valeurs réelles (codés 1). __
+__ Puis il reçoit un vecteur issu du générateur constitué de valeurs aléatoires fake (codé 0). __
+__ La sortie du discriminator est un vecteur de taille [batch_size, 0<= val <= 1]. En effet, juste avant la fonction sigmoid du discriminator on a forcé le nombre de features à 1, puis ce vecteur est transformé par la sgimoid pour donner une valeur comprise entre 0 et 1, valeur qui puisse être comparable aux valeurs de code 0 et 1. __
+__ L'erreur est calculée à partir de la comparaison des deux valeurs, sortie du discriminator et valeur de code. __
+__ Au tout début l'erreur est forcément élevée car l'apprentissage n'a pas encore eu lieu. __
+__ Suite au calcul de l'erreur, par backpropagation, les poids du discriminator sont mis à jour. __
+__ Cette séquence sert au discriminator à apprendre les distributions propres à des valeurs réelles d'une part et des valeurs fake d'autre part. __
+
+__ Dans un troisième temps, le générator produit un vecteur de valeurs aléatoires et celui ci va être (codé 1). __
+__ Ce vecteur est présenté au discriminator qui produit une prédiction sur la classification du vecteur présenté (réel ou fake ?). __
+__ Immédiatement après, on calcule l'erreur en comparant la valeur de prédiction issue du discriminator et la valeur de code, ici 1. __
+__ L'erreur est calculée en compareant la valeur de prédiction et la valeur de code 1. __
+__ Le fait de comparer la prédiction à la valeur 1 pour le calcul de l'erreur revient à dire que tant que l'objectif est que le vecteur généré par le generator soit quasiment identique au vecteur des valeurs réelles. __
+__ L'erreur est forcément élevée au déburt de l'entrainement. __
+__ Par backpropagation, les poids du generateur sont mis à jour. __
+
+__ Ce processus se répète au fur et à mesure des epochs. __
+__ Les poids du discriminator et du generator sont de plus en plus précis. __
+__ Au bout d'un moment, les erreurs du discriminator et du genrator sont stabilisées et faibles. La qualité du generator est maximale. __
 
 ### Consultant @ IBM France.
 #### Missions Organisation de Système Information, clients européens.
