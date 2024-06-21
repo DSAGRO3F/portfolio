@@ -26,7 +26,7 @@
 - [Analyse prédiction consommation énergétique bâtiment non résidentiel](https://github.com/DSAGRO3F/Analyse_predictive_batiment_energetique_CO2)
 
 
-## Coup d'oeil sur les modèles génératifs (https://github.com/DSAGRO3F/portfolio/blob/main/generative_models)).
+## Coup d'oeil sur les modèles génératifs [VAE et GAN](https://github.com/DSAGRO3F/portfolio/blob/main/generative_models).
 ### IA générative, l'architecture des VAE.
 _L'architecture du VAE se compose d'un encoder et d'un decoder. L'objet de l'encoder est d'extraire les features essentielles pour aboutir à une représentation simple de la donnée d'entrée. Cette représentation simple est nommée l'espace latent._
 
