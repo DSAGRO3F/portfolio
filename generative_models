@@ -17,12 +17,6 @@ __ Ce qui fait des VAE des modèles très intéressants pour la détection d’a
 
 
 
-
-
-
-
-
-
 ## Les GAN (Generative Adversarial Network)
 __ Un GAN se compose de deux réseaux indépendants, un Générateur et un Discriminateur. __
 __ Le Générateur génère des échantillons synthétiques à partir d'un bruit aléatoire (échantillonné à partir d'un espace latent). __
