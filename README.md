@@ -25,7 +25,9 @@
 - [Gestion accord crédit consommation/dashboard](https://github.com/DSAGRO3F/risk_rating_dashboard)
 - [Analyse prédiction consommation énergétique bâtiment non résidentiel](https://github.com/DSAGRO3F/Analyse_predictive_batiment_energetique_CO2)
 
-#### IA générative, l'architecture des VAE.
+
+## Coup d'oeil sur les modèles génératifs.
+### IA générative, l'architecture des VAE.
 _L'architecture du VAE se compose d'un encoder et d'un decoder. L'objet de l'encoder est d'extraire les features essentielles pour aboutir à une représentation simple de la donnée d'entrée. Cette représentation simple est nommée l'espace latent._
 
 _Cette représentation de l'espace latent est construite à partir de deux vecteurs: mean et std. Tous deux ont une représentation simple comme on l'a évoqué précédemment. L'une des subtilités du modèle est que le vecteur std est associé à un vecteur de distribution normale centrée par le biais d'un produit scalaire. Le produit de ce produit scalaire est ajouté au vecteur mean pour former un vecteur z._
@@ -40,6 +42,8 @@ _Finnalement les poids du modèle, durant leur phase d'entrainement, apprennent 
 - [nuage de représentation des vecteurs de l'espace latent](https://drive.google.com/file/d/103Ic8UWLj6mqW-zEshQiReZxLU3HAItz/view?usp=sharing)
 - [decoder output](https://drive.google.com/file/d/1W_-V5tk4TYbYmuquczgfmBYIYuEm4qeo/view?usp=drive_link)
 
+
+### IA générative, l'architecture des GAN.
 
 ### Consultant @ IBM France.
 #### Missions Organisation de Système Information, clients européens.
