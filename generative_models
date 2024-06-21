@@ -1,1 +1,2 @@
-
+- Un GAN se compose de deux réseaux indépendants, un Générateur et un Discriminateur.
+- Le Générateur génère des échantillons synthétiques à partir d'un bruit aléatoire (échantillonné à partir d'un espace latent) et le Discriminateur est un classificateur binaire qui distingue si l'échantillon d'entrée est réel (renvoie une valeur scalaire 1) ou faux (renvoie une valeur scalaire 0).
