@@ -11,6 +11,7 @@
 ### Data scientist (Python/Pytorch/Scikitlearn/Matplotlib/Plotly/Dash...).
 #### Projets.
 - Volumes de ventes, marque française secteur du luxe (environnement SQL et GCP, plateforme Qlick-autoML): Production POC pour estimation faisabilité (Tests architectures XGBM, LSTM en cours).
+- Système de recommendation produits pour la marque H&M (RFM, clustering, text embedding, cosine similarity...).
 - Détection anomalies/prédiction dysfonctionnement groupes électrogènes, activité maintenance industrielle (environnement datalake/SQL sur réseau interne; Cadrage étude (gros vol. d'équipements en maintenance, affectation priorités, compréhension données capteurs), constitution historiques data (séries temporelles), modélisation (VAE, LSTM) et test versus objectifs métiers, développement app. Streamlit et déploiement sur AWS/EC2.
 - Automatisation catégories produits, place de marché multi-catégorielle.
 - Gestion accord de crédit aux particuliers, activité de crédit consommation.
@@ -18,6 +19,7 @@
 #### Projets et publications théoriques.
 - [VAE](https://github.com/DSAGRO3F/VAE_MNIST)
 - [CNN classification](https://github.com/DSAGRO3F/CNN_image_classification)
+- [Product recommendation system](https://github.com/DSAGRO3F/product_recommendation_system.git)
 - [Airflight tickets sales prediction](https://github.com/DSAGRO3F/airflight_pytorch)
 - [Predictive maintenance](https://github.com/DSAGRO3F/pm_git_api_V3)
 - [Automatisation catégorisation produits place de marché](https://github.com/DSAGRO3F/product_classification_automation)
