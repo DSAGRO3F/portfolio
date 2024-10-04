@@ -26,7 +26,7 @@
 - [VAE](https://github.com/DSAGRO3F/VAE_MNIST)
 - [CNN classification](https://github.com/DSAGRO3F/CNN_image_classification)
 - [Product recommendation system](https://github.com/DSAGRO3F/product_recommendation_system.git)
-- [)
+- [Analyse géographique sources eau potable](https://github.com/DSAGRO3F/Tableau_geo_eau_potable)
 - [Airflight tickets sales prediction](https://github.com/DSAGRO3F/airflight_pytorch)
 - [Predictive maintenance](https://github.com/DSAGRO3F/pm_git_api_V3)
 - [Automatisation catégorisation produits place de marché](https://github.com/DSAGRO3F/product_classification_automation)
