@@ -13,8 +13,14 @@
 - Volumes de ventes, marque française secteur du luxe (environnement SQL et GCP, plateforme Qlick-autoML): Production POC pour estimation faisabilité (Tests architectures XGBM, LSTM en cours).
 - Système de recommendation produits pour la marque H&M (RFM, clustering, text embedding, cosine similarity...).
 - Détection anomalies/prédiction dysfonctionnement groupes électrogènes, activité maintenance industrielle (environnement datalake/SQL sur réseau interne; Cadrage étude (gros vol. d'équipements en maintenance, affectation priorités, compréhension données capteurs), constitution historiques data (séries temporelles), modélisation (VAE, LSTM) et test versus objectifs métiers, développement app. Streamlit et déploiement sur AWS/EC2.
+- Analyse de données géographiques pour une ONG (distance sources d'eau potable - village), Tableau.
 - Automatisation catégories produits, place de marché multi-catégorielle.
 - Gestion accord de crédit aux particuliers, activité de crédit consommation.
+
+## **_Langages, librairies_**.
+- Python, SQL, Sklearn, Pytorch, Dash, Plotly, Matplotlib, Seaborn
+- Algorythmes ML, DL (NN, CNN, VAE, GAN), transformers.
+- Tableau Software.
 
 #### Projets et publications théoriques.
 - [VAE](https://github.com/DSAGRO3F/VAE_MNIST)
