@@ -19,7 +19,7 @@
 
 ## **_Langages, librairies_**.
 - Python, SQL, Sklearn, Pytorch, Dash, Plotly, Matplotlib, Seaborn
-- Algorythmes ML, DL (NN, CNN, VAE, GAN), transformers.
+- Algorithmes ML, DL (NN, CNN, VAE, GAN), transformers.
 - Tableau Software.
 
 #### Projets et publications théoriques.
