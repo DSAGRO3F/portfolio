@@ -10,7 +10,7 @@
 ## **_Experience_**.
 ### Data scientist (Python/Pytorch/Scikitlearn/Matplotlib/Plotly/Dash...).
 #### Projets.
-- Volumes de ventes, marque française secteur du luxe (environnement SQL et GCP, plateforme Qlick-autoML): Production POC pour estimation faisabilité (Tests architectures XGBM, LSTM en cours).
+- Volumes de ventes, marque française secteur du luxe (environnement SQL et GCP, plateforme Qlick-autoML): Production POC pour estimation volumes de vente/catégories/produits/items par saison.
 - Système de recommendation produits pour la marque H&M (RFM, clustering, text embedding, cosine similarity...).
 - Détection anomalies/prédiction dysfonctionnement groupes électrogènes, activité maintenance industrielle (environnement datalake/SQL sur réseau interne; Cadrage étude (gros vol. d'équipements en maintenance, affectation priorités, compréhension données capteurs), constitution historiques data (séries temporelles), modélisation (VAE, LSTM) et test versus objectifs métiers, développement app. Streamlit et déploiement sur AWS/EC2.
 - Analyse de données géographiques pour une ONG (distance sources d'eau potable - village), Tableau.
