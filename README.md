@@ -1,6 +1,12 @@
 # PORTFOLIO.
 # Data Scientist
 
+## En quelques mots...
+- Double compétence en finance/gestion et big data développée au long de mon parcours chez IBM et lors du projet d’acquisition et du développement des entreprises Brunel/TechSys-Ingénierie.
+- Je réalise pour des PME/PMI des applications de pilotage (KPI), je conçois des modèles prédictifs, je fais le développement de l’application qui utilise ces indicateurs et déploie le code sur des plateformes cloud.
+- Chez IBM  je suis en charge de l’analyse financière des projets clients (sécurisation de contrats long terme, achat Kw/h et m2), des investissements (construction nouveau datacenter) et du suivi de leur rentabilité.
+- Lors de mon projet d’acquisition, je structure et négocie avec les banques et Fonds d’investissement les apports et risques en K.
+
 ## **_Education_**.
 - Maîtrise de Sciences et structure de la matière.
 - Master in Business Administration.
@@ -23,6 +29,7 @@
 - Tableau Software.
 
 #### Projets et publications théoriques.
+- [Mortality analysis from ambient PM2.5 exposure](https://github.com/DSAGRO3F/microparticle_pollution_fossil_fuel.git)
 - [VAE](https://github.com/DSAGRO3F/VAE_MNIST)
 - [CNN classification](https://github.com/DSAGRO3F/CNN_image_classification)
 - [Product recommendation system](https://github.com/DSAGRO3F/product_recommendation_system.git)
