@@ -1,5 +1,5 @@
 # PORTFOLIO.
-# Data Scientist
+# Data Scientist (5 ans d'expérience)
 
 ## En quelques mots...
 - Formation Data sciences, j'interviens plutôt pour des PME pour lesquelles je développe des applications complètes (backend + frontend).
