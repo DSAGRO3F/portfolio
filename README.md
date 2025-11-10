@@ -15,7 +15,7 @@
 ## **_Experience_**.
 ### Data scientist (Python/Pytorch/Scikitlearn/Matplotlib/Plotly/Dash...).
 #### Projets.
-- Automatisation de production de documents et recommandations de soins pour infirmière, médecin traitant (LLM, RAG, Docker, GIT, Python, Dash, Flask)
+- Développement application de chat pour interactions avec personnel soignant (demande de recommandations de soins, ...). LLM, RAG, Docker, GIT, Python, Dash, Flask.
 - Volumes de ventes, marque française secteur du luxe (environnement SQL et GCP, plateforme Qlick-autoML): Production POC pour estimation volumes de vente/catégories/produits/items par saison.
 - Système de recommendation produits pour la marque H&M (RFM, clustering, text embedding, cosine similarity...).
 - Détection anomalies/prédiction dysfonctionnement groupes électrogènes, activité maintenance industrielle (environnement datalake/SQL sur réseau interne; Cadrage étude (gros vol. d'équipements en maintenance, affectation priorités, compréhension données capteurs), constitution historiques data (séries temporelles), modélisation (VAE, LSTM) et test versus objectifs métiers, développement app. Streamlit et déploiement sur AWS/EC2.
@@ -29,7 +29,7 @@
 - Tableau Software.
 
 #### Projets et publications théoriques.
-- [Automatisation de production de documents et recommandations de soins pour infirmière, médecin traitant](https://github.com/DSAGRO3F/OBY-Chat.git)
+- [Développement application de chat](https://github.com/DSAGRO3F/OBY-Chat.git)
 - [Mortality analysis from ambient PM2.5 exposure](https://github.com/DSAGRO3F/microparticle_pollution_fossil_fuel.git)
 - [VAE](https://github.com/DSAGRO3F/VAE_MNIST)
 - [CNN classification](https://github.com/DSAGRO3F/CNN_image_classification)
