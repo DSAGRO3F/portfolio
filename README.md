@@ -2,10 +2,9 @@
 # Data Scientist
 
 ## En quelques mots...
-- Double compétence en finance/gestion et big data développée au long de mon parcours chez IBM et lors du projet d’acquisition et du développement des entreprises Brunel/TechSys-Ingénierie.
-- Je réalise pour des PME/PMI des applications de pilotage (KPI), je conçois des modèles prédictifs, je fais le développement de l’application qui utilise ces indicateurs et déploie le code sur des plateformes cloud.
-- Chez IBM  je suis en charge de l’analyse financière des projets clients (sécurisation de contrats long terme, achat Kw/h et m2), des investissements (construction nouveau datacenter) et du suivi de leur rentabilité.
-- Lors de mon projet d’acquisition, je structure et négocie avec les banques et Fonds d’investissement les apports et risques en K.
+- Formation Data sciences, j'interviens plutôt pour des PME pour lesquelles je développe des applications complètes (backend + frontend).
+- Je développe en Python et j'utilise les librairies de data sciences (PyTorch, LangChain, Sklearn, notamment).
+- Pour des projets nécessitant des compétences particulières, je réunis une équipe pour se doter des ressources complémentaires. J'interviens en tant que pilote du projet et développeur.
 
 ## **_Education_**.
 - Maîtrise de Sciences et structure de la matière.
@@ -16,6 +15,7 @@
 ## **_Experience_**.
 ### Data scientist (Python/Pytorch/Scikitlearn/Matplotlib/Plotly/Dash...).
 #### Projets.
+- Automatisation de production de documents et recommandations de soins pour infirmière, médecin traitant (LLM, RAG, Docker, GIT, Python, Dash, Flask)
 - Volumes de ventes, marque française secteur du luxe (environnement SQL et GCP, plateforme Qlick-autoML): Production POC pour estimation volumes de vente/catégories/produits/items par saison.
 - Système de recommendation produits pour la marque H&M (RFM, clustering, text embedding, cosine similarity...).
 - Détection anomalies/prédiction dysfonctionnement groupes électrogènes, activité maintenance industrielle (environnement datalake/SQL sur réseau interne; Cadrage étude (gros vol. d'équipements en maintenance, affectation priorités, compréhension données capteurs), constitution historiques data (séries temporelles), modélisation (VAE, LSTM) et test versus objectifs métiers, développement app. Streamlit et déploiement sur AWS/EC2.
@@ -24,11 +24,12 @@
 - Gestion accord de crédit aux particuliers, activité de crédit consommation.
 
 ## **_Langages, librairies_**.
-- Python, SQL, Sklearn, Pytorch, Dash, Plotly, Matplotlib, Seaborn
+- Python, SQL, FastAPI, Sklearn, Pytorch, Dash, Plotly, Matplotlib, Seaborn
 - Algorithmes ML, DL (NN, CNN, VAE, GAN), transformers.
 - Tableau Software.
 
 #### Projets et publications théoriques.
+- [Automatisation de production de documents et recommandations de soins pour infirmière, médecin traitant](https://github.com/DSAGRO3F/OBY-Chat.git)
 - [Mortality analysis from ambient PM2.5 exposure](https://github.com/DSAGRO3F/microparticle_pollution_fossil_fuel.git)
 - [VAE](https://github.com/DSAGRO3F/VAE_MNIST)
 - [CNN classification](https://github.com/DSAGRO3F/CNN_image_classification)
@@ -90,8 +91,9 @@ _Ce processus se répète au fur et à mesure des epochs._
 _Les poids du discriminator et du generator sont de plus en plus précis._
 _Au bout d'un moment, les erreurs du discriminator et du genrator sont stabilisées et faibles. La qualité du generator est maximale._
 
-### Consultant @ IBM France.
-#### Missions Organisation de Système Information, clients européens.
+# Autres expérinces
+## Consultant @ IBM France, spécialité Finance analyst.
+### Missions Organisation de Système Information, clients européens.
 - Bezecq Telecom
 - Orkla Foods
 - O2
