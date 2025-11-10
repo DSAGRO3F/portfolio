@@ -91,7 +91,7 @@ _Ce processus se répète au fur et à mesure des epochs._
 _Les poids du discriminator et du generator sont de plus en plus précis._
 _Au bout d'un moment, les erreurs du discriminator et du genrator sont stabilisées et faibles. La qualité du generator est maximale._
 
-# Autres expérinces
+# Autres expériences.
 ## Consultant @ IBM France, spécialité Finance analyst.
 ### Missions Organisation de Système Information, clients européens.
 - Bezecq Telecom
